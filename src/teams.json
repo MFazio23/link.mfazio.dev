@@ -3,84 +3,84 @@
     "teamId": "APL",
     "name": "Appleton Foxes",
     "logoUrl": "/img/apl.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/APL?teamName=Appleton Foxes"
+    "deepLinkUrl": "/teams/APL?teamName=Appleton Foxes"
   },
   {
     "teamId": "BOO",
     "name": "Baraboo Big Tops",
     "logoUrl": "/img/boo.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/BOO?teamName=Baraboo Big Tops"
+    "deepLinkUrl": "/teams/BOO?teamName=Baraboo Big Tops"
   },
   {
     "teamId": "EC",
     "name": "Eau Claire Blues",
     "logoUrl": "/img/ec.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/EC?teamName=Eau Claire Blues"
+    "deepLinkUrl": "/teams/EC?teamName=Eau Claire Blues"
   },
   {
     "teamId": "GB",
     "name": "Green Bay Skyline",
     "logoUrl": "/img/gb.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/GB?teamName=Green Bay Skyline"
+    "deepLinkUrl": "/teams/GB?teamName=Green Bay Skyline"
   },
   {
     "teamId": "LAX",
     "name": "La Crosse Lovers",
     "logoUrl": "/img/lax.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/LAX?teamName=La Crosse Lovers"
+    "deepLinkUrl": "/teams/LAX?teamName=La Crosse Lovers"
   },
   {
     "teamId": "LD",
     "name": "Lake Delton Breakers",
     "logoUrl": "/img/ld.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/LD?teamName=Lake Delton Breakers"
+    "deepLinkUrl": "/teams/LD?teamName=Lake Delton Breakers"
   },
   {
     "teamId": "MSN",
     "name": "Madison Snowflakes",
     "logoUrl": "/img/msn.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/MSN?teamName=Madison Snowflakes"
+    "deepLinkUrl": "/teams/MSN?teamName=Madison Snowflakes"
   },
   {
     "teamId": "MKE",
     "name": "Milwaukee Sunrise",
     "logoUrl": "/img/mke.png",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/MKE?teamName=Milwaukee Sunrise"
+    "deepLinkUrl": "/teams/MKE?teamName=Milwaukee Sunrise"
   },
   {
     "teamId": "PKE",
     "name": "Pewaukee Princesses",
     "logoUrl": "/img/pke.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/PKE?teamName=Pewaukee Princesses"
+    "deepLinkUrl": "/teams/PKE?teamName=Pewaukee Princesses"
   },
   {
     "teamId": "SHW",
     "name": "Shawano Shorebirds",
     "logoUrl": "/img/shw.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/SHW?teamName=Shawano Shorebirds"
+    "deepLinkUrl": "/teams/SHW?teamName=Shawano Shorebirds"
   },
   {
     "teamId": "SB",
     "name": "Sturgeon Bay Elders",
     "logoUrl": "/img/sb.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/SB?teamName=Sturgeon Bay Elders"
+    "deepLinkUrl": "/teams/SB?teamName=Sturgeon Bay Elders"
   },
   {
     "teamId": "SG",
     "name": "Spring Green Thespians",
     "logoUrl": "/img/sg.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/SG?teamName=Spring Green Thespians"
+    "deepLinkUrl": "/teams/SG?teamName=Spring Green Thespians"
   },
   {
     "teamId": "WAU",
     "name": "Waukesha Riffs",
     "logoUrl": "/img/wau.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/WAU?teamName=Waukesha Riffs"
+    "deepLinkUrl": "/teams/WAU?teamName=Waukesha Riffs"
   },
   {
     "teamId": "WR",
     "name": "Wisconsin Rapids Cranberries",
     "logoUrl": "/img/wr.svg",
-    "deepLinkUrl": "https://link.mfazio.dev/teams/WR?teamName=Wisconsin Rapids Cranberries"
+    "deepLinkUrl": "/teams/WR?teamName=Wisconsin Rapids Cranberries"
   }
 ]

@@ -1,5 +1,5 @@
 export default function Home() {
     return (
-        <div>Home</div>
+        <h1 className="page-header">faziodev links</h1>
     )
 }

@@ -7,7 +7,7 @@ export default function SingleTeam() {
     const team = teams.find(team => team.teamId === teamId);
 
     return (
-        <div>
+        <div className="centered-container">
             <h2 className="page-header">{team.name}</h2>
             <div>
                 <a className="team-logo-link" href={team.deepLinkUrl}>
