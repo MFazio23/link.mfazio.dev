@@ -1,4 +1,23 @@
-
+/adaptive-icons https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive    200
+/app-signing    https://developer.android.com/studio/publish/app-signing    200
+/codelabs   https://codelabs.developers.google.com/?cat=android 200
+/debug https://developer.android.com/studio/debug    200
+/dimension  https://developer.android.com/guide/topics/resources/more-resources.html#Dimension  200
+/espresso-cheat-sheet   https://developer.android.com/training/testing/espresso/cheat-sheet 200
+/jetpack    https://developer.android.com/jetpack   200
+/log https://developer.android.com/reference/android/util/Log    200
 /logcat https://developer.android.com/studio/command-line/logcat    200
+/moshi  https://github.com/square/moshi 200
+/operator-overloading   https://kotlinlang.org/docs/reference/operator-overloading.html 200
+/plurals https://developer.android.com/guide/topics/resources/string-resource#Plurals    200
+/retrofit   https://square.github.io/retrofit/  200
+/settings https://developer.android.com/guide/topics/ui/settings    200
+/sharing    https://developer.android.com/training/sharing/send 200
+/square https://squareup.com/us/en  200
+/testing    https://developer.android.com/training/testing/fundamentals 200
+/toasts https://developer.android.com/guide/topics/ui/notifiers/toasts    200
+/translations https://developer.android.com/studio/write/translations-editor    200
+/use-saved-values https://developer.android.com/guide/topics/ui/settings/use-saved-values#preferencedatastore    200
+
 
 /*  /index.html 200

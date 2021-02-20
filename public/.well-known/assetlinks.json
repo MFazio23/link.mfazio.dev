@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.mfazio.abl",
+      "sha256_cert_fingerprints": [
+        "22:6C:C2:61:99:D6:3F:D9:33:CE:14:11:F4:69:05:6E:F7:00:6C:BF:E1:06:32:2F:7A:89:54:B6:71:3E:0D:66"
+      ]
+    }
+  }
+]
