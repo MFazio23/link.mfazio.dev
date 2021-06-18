@@ -1,5 +1,6 @@
 /adaptive-icons https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive    200
 /app-signing    https://developer.android.com/studio/publish/app-signing    200
+/book  https://pragprog.com/titles/mfjetpack/kotlin-and-android-development-featuring-jetpack/ 200
 /debug https://developer.android.com/studio/debug    200
 /dimension  https://developer.android.com/guide/topics/resources/more-resources.html#Dimension  200
 /espresso-cheat-sheet   https://developer.android.com/training/testing/espresso/cheat-sheet 200
